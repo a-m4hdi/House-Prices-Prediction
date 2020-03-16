@@ -8,3 +8,5 @@ Machine Learning Predict house prices Simple Linear Regression
 [2] https://www.slideshare.net/DanielLIAO9/c21-intro
 
 [3] https://www.youtube.com/watch?v=GhrxgbQnEEU
+
+[4] https://www.w3schools.com/python/python_ml_getting_started.asp
